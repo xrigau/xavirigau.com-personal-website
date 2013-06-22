@@ -1,0 +1,43 @@
+/* ==|== resume styles =====================================================
+ Author: Xavi Rigau
+ ========================================================================== */
+h3 {
+	margin-top: 50px;
+	margin-left: 65px;
+	margin-right: 65px;
+}
+
+footer {
+	margin-top: 60px;
+}
+
+.indent_title {
+	margin-top: 15px;
+	margin-left: 65px;
+	margin-right: 90px;
+}
+
+.indent {
+	margin-top: 10px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+.second {
+	margin-top: 30px;
+}
+
+#header_image {
+	opacity: 0.4;
+	clip:rect(0px auto 300px 0px);	
+}
+
+#goals_title {
+	margin-top: 100px;
+}
+
+#download_resume {
+	margin-top: 70px;
+	margin-left: 65px;
+	margin-right: 90px;
+}

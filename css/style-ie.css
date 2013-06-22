@@ -1,0 +1,7 @@
+/* ==|== ie styles =====================================================
+ Author: Xavi Rigau
+ ========================================================================== */
+/* Alpha animations don't work in IE, so it just shows as opacity 1*/
+.fade-in {
+    opacity:1;
+}
