@@ -1,0 +1,49 @@
+/* ==|== portfolio styles =====================================================
+ Author: Xavi Rigau
+ ========================================================================== */
+footer {
+	margin-top: 30px;
+}
+
+h3 {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.portfolio_link {
+	color: /*darker_gray*/#2a2a2a;
+}
+
+.link_right {
+	text-align: right;
+	margin-top: 15px;
+	padding-bottom: 30px;
+}
+
+.screenshot_thumbnail {
+	margin-top: 20px;
+	margin-left: 10px;
+	opacity: 1.0;
+
+	-webkit-transition: opacity 0.2s ease-in-out;
+	   -moz-transition: opacity 0.2s ease-in-out;
+		-ms-transition: opacity 0.2s ease-in-out;
+		 -o-transition: opacity 0.2s ease-in-out;
+			transition: opacity 0.2s ease-in-out;
+}
+
+.screenshot_thumbnail:hover {
+	opacity: 0.6;
+}
+
+#header_image {
+	opacity: 0.4;
+	clip:rect(0px auto 300px 0px);
+}
+
+#projects_list {
+	margin-top: 100px;
+	margin-left: 65px;
+	margin-right: 65px;
+	list-style: none;
+}
