@@ -1,0 +1,17 @@
+/* ==|== 404 styles =====================================================
+ Author: Xavi Rigau
+ ========================================================================== */
+
+footer {
+	margin-top: 200px;
+}
+
+#header_image {
+	opacity: 0.6;
+}
+
+#sad_nyan_cat {
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
