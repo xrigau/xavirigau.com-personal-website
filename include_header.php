@@ -1,10 +1,10 @@
 <div id="top_header">
 	<header class="clearfix">
-		<a id="title_text" href="index.php">xavirigau.com</a>
+		<a id="title_text" href="http://xavirigau.com">xavirigau.com</a>
 		<nav>
 			<ul>
 				<li id="home">
-					<a href="index.php" class="nav_options">About me</a>
+					<a href="http://xavirigau.com" class="nav_options">About me</a>
 				</li>
 				<li id="resume">
 					<a href="resume.php" class="nav_options">Resume</a>
