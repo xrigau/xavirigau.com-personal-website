@@ -21,15 +21,15 @@
 				</hgroup>
 				<h3 id="goals_title" class="fade-in zero">Goals</h3>
 				<p class="indent_title fade-in zero">
-					My goal is to become a great and efficient mobile software developer.<br />I’m an active person. I always try to know what’s new in mobile development and try to go to events, tech talks and participate in Android online development groups as much as I can. Recently, I had the chance to take part of a hackathon to create apps that encourage people to recycle more in Barcelona and won the second prize.
+					My goal is to become a great software craftsman and build delightful and beautiful apps.<br />I’m currently working on my own open source projects and I also like contributing to other people’s projects as well. I usually attend as many meetups as I can about Android and software development. Recently I gave a talk about UI testing on Android using Espresso at Droidcon Spain 2013 and Droidcon Italy 2014.
 				</p>
 
 				<h3 class="fade-in one">Education</h3>
 				<p class="indent_title fade-in one">
-					2008 – Late 2013: <span style="color:/*hover_green*/#669902">Computer Science</span> (Universitat Autònoma de Barcelona)
+					2008 – Unfinished: <span style="color:/*hover_green*/#669902">Computer Science</span> (Universitat Autònoma de Barcelona)
 				</p>
 				<p class="indent fade-in one">
-					In order to obtain the degree I must finish free elective credits (5 remaining out of 21). My plan is to finish them during August/September 2013. Some courses I’ve already taken are Introduction to Java (22’5 h), Introduction to Web development (22’5 h), Introduction to Android (45 h), Web Marketing (22’5 h), Entrepreneurship (30 h), Introduction to Games development with XNA (22’5 h) and English level B2.2 (150 h).
+					I studied a degree in Computer Science in UAB, I couldn’t complete the degree because of some free elective credits missing. During my degree I started working part-time and then full time so I didn’t have enough time to finish it. Then I moved to London, which makes it even more difficult for me to complete the remaining few credits.
 				</p>
 
 				<h3 class="fade-in two">Experience</h3>
@@ -37,7 +37,7 @@
 					June 2013 – Present: <span style="color:/*hover_green*/#669902">Android Software Craftsman</span> (Novoda, London)
 				</p>
 				<p class="indent fade-in two">
-					I moved from Barcelona (my hometown) to London and joined Novoda in mid June 2013.
+					I decided to join Novoda in London and get involved in Software Craftsmanship. I got familiar with clean code and best practices and best process. I’ve worked on both big and small projects (Tesco, Depop, Secret DJ, etc.) always aiming at the best possible outcome.
 				</p>
 				<p class="indent_title second fade-in two">
 					December 2012 – April 2013: <span style="color:/*hover_green*/#669902">Mobile Developer</span> (NO2 web and mobile applications S. L.)
